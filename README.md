@@ -40,7 +40,7 @@
 
 ## 🏋️ Obstacles
 
-- Moving cars
+- Other cars
 - Stationary road barriers
 - Randomly placed pylons
 
