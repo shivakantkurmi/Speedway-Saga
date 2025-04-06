@@ -51,7 +51,7 @@
 1. **Clone the Repo**
 
 ```bash
-git clone 
+git clone https://github.com/shivakantkurmi/Speedway-Saga.git
 ```
 
 2. **Open in Unity**
@@ -62,7 +62,7 @@ git clone
 
    - Optionally test on PC with keyboard controls
 
-> ⚠️ **Note:** If the skybox doesn't render properly, try changing its texture using another available skybox texture in the project settings.
+> ⚠️ **Note:** If the skybox doesn't render properly, try changing its texture using another available skybox texture in the Assets->import Assets.
 
 ---
 
