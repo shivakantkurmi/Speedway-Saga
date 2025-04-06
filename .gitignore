@@ -1,0 +1,15 @@
+# Unity specific files to ignore
+Library/
+Temp/
+Logs/
+Obj/
+.vs/
+.vscode/
+Build/
+Builds/
+UserSettings/
+Packages/com.unity.collab-proxy/
+Packages/com.ptc.vuforia.engine-*.tgz
+04-23_Sun_A.hdr
+04-23_Sun_A.hdr.meta
+

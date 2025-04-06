@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b075f69b3512eb747b85a1f49a275b6e
+timeCreated: 1458131919
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52628
+  packageName: Kajaman's Roads - Free
+  packageVersion: 1.0.1
+  assetPath: Assets/KajamansRoads/Materials/CornMat.mat
+  uploadId: 110399

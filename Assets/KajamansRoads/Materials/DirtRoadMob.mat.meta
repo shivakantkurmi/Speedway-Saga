@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb1c5d5e8f23ff14c9a32795bfea3a76
+timeCreated: 1450551281
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52628
+  packageName: Kajaman's Roads - Free
+  packageVersion: 1.0.1
+  assetPath: Assets/KajamansRoads/Materials/DirtRoadMob.mat
+  uploadId: 110399
