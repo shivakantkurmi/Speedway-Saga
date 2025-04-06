@@ -95,7 +95,7 @@ git clone https://github.com/shivakantkurmi/Speedway-Saga.git
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**[LICENSE].
 
 ---
 
